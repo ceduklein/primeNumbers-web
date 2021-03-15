@@ -1,0 +1,13 @@
+.container {
+  margin-top: 40px;
+  height: auto;
+}
+
+.searchButton {
+  margin-top: 35px;
+}
+
+.historyLink {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
